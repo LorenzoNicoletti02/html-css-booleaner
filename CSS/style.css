@@ -3,8 +3,14 @@
     font-size: 50px;
 }
 
+.booleaner {
+    width: 200px;
+}
+
 .logo {
     background-image: url(../img/pattern.png);
+    background-color: #00ccff;
+    height: 180px;
 }
 
 .grigio-1 {
@@ -27,5 +33,24 @@
 }
 
 .evidenziato {
-    background-color: yellow;
+    background-color: #ffff00;
+}
+
+.list {
+    text-align: left;
+}
+
+.Lorem {
+    text-align: left;
+}
+
+.Lorem1 {
+    text-align: left;
+    background-color: #00ccff6b;
+}
+
+.th {
+    background-color: #00aeffc2;
+    color: #ffffff;
+    text-align: left;
 }
