@@ -1,0 +1,27 @@
+/* main-title font size */
+.main-title {
+    font-size: 50px;
+}
+
+.logo {
+    background-image: url(../img/pattern.png);
+}
+
+.grigio-1 {
+    color: #808080;
+    font-size: 18px;
+}
+
+.grigio-2 {
+    color: #808080;
+    font-size: 14px;
+}
+
+.azzurro {
+    color:#00ccff;
+    font-size: 18px;
+}
+
+.photo-description {
+    font-size: 12px;
+}
