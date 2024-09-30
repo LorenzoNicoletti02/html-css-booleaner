@@ -24,7 +24,7 @@
 }
 
 .azzurro {
-    color:#00ccff;
+    color: #00ccff;
     font-size: 18px;
 }
 
@@ -53,4 +53,14 @@
     background-color: #00aeffc2;
     color: #ffffff;
     text-align: left;
+    width: 15%;
 }
+
+ul {
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
